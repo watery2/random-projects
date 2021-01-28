@@ -1,0 +1,52 @@
+body{
+    margin-top: 50px;
+    background: linear-gradient(to left,#66CCFF 0%, #FF99FF 20%,#CC4073 40%,#66FF66 100%)
+}
+
+#container{
+    position: relative;
+    text-align: center;
+
+}
+#numInput{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+h2, h3{
+    font-family: 'Brush Script MT', cursive;
+    color: white;
+}
+
+#output{
+    background: linear-gradient(to right,#46a0a0 0%,#4e976c 20%,#810f0f 40%,#2f1174 100%);
+    transition: 0.2s;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+#output:hover{
+    background: linear-gradient(to right,#5dc5c5 0%,#4fca82 20%,#af1313 40%,#4915c4 100%);
+}
+.outdol{
+    background: linear-gradient(to right,#7f65f1 0%,#6d1a5f 20%, #720f99 0%, #6ce9b5 100%);
+    margin: auto;
+    width: 250px;
+    height: 100px;
+    border-radius: 20px;
+
+}
+.outpound{
+    background: linear-gradient(to right,#7f65f1 0%,#6d1a5f 20%, #720f99 0%, #6ce9b5 100%);
+    margin: auto;
+    width: 250px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 10px;
+
+}
+
